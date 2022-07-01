@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
 
 body {
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 0;
-    padding: 0vw 2vw;
+    padding: 2vw;
     width: 96vw;
-    height: 100vh;
     text-align: center;
 
     background-color: #222;
@@ -42,5 +39,6 @@ a {
 }
 
 img {
-  max-width: 80%;
+  width: 80%;
+  max-width: 400px;
 }
