@@ -38,6 +38,10 @@ a {
     margin: 16px;
 }
 
+a:visited {
+  color: #ddd;
+}
+
 img {
   width: 80%;
   max-width: 400px;
